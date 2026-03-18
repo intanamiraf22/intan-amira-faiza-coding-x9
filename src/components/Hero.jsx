@@ -102,7 +102,7 @@ export default function Hero() {
                   leading-relaxed max-w-sm mx-auto md:mx-0 mb-8
                 "
               >
-                Saya mengembangkan aplikasi web yanhg interaktif, efisien, dan dirancang untuk memberikan pengalaman terbaik.
+                Saya mengembangkan aplikasi web yang interaktif, efisien, dan dirancang untuk memberikan pengalaman terbaik.
               </p>
             </div>
 
